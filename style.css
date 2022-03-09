@@ -1,0 +1,7 @@
+div {
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+    border-left: 2px solid slateblue;
+    border-radius: 10px;
+}
